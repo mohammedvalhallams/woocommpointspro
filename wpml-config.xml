@@ -1,0 +1,55 @@
+<wpml-config>
+	<admin-texts> 
+	 	<key name="wps_wpr_notificatin_array" >
+		<key name="wps_wpr_comment_email_subject" />
+		<key name="wps_wpr_referral_purchase_email_subject" />
+		<key name="wps_wpr_deduct_per_currency_point_subject" />
+		<key name="wps_wpr_point_sharing_subject" />
+		<key name="wps_wpr_pro_pur_by_points_email_subject" />
+		<key name="wps_wpr_return_pro_pur_subject" />
+        <key name="wps_wpr_point_on_coupon_referal_subject" />
+        <key name="wps_wpr_point_on_email_referal_subject" />
+		<key name="wps_wpr_point_on_bday_subject" />
+        <key name="wps_wpr_point_on_first_order_subject" />
+        <key name="wps_wpr_point_on_first_order_desc" />
+        <key name="wps_wpr_point_on_bday_order_desc" />
+        <key name="wps_wpr_point_on_email_referal_order_desc" />
+        <key name="wps_wpr_point_on_copon_referal_order_desc" />
+        </key>
+		<key name="wps_wpr_other_settings" >
+		<key name="wps_wpr_shortcode_text_membership" />
+		<key name="wps_wpr_other_shortcode_text" />
+		</key>
+        <key name= "wps_wpr_product_purchase_settings" >
+        <key name= "wps_wpr_purchase_product_text" />
+        </key>
+        <key name= "wps_wpr_points_expiration_settings" >
+        <key name= "wps_wpr_threshold_notif" />
+        <key name= "wps_wpr_re_notification" />
+        <key name= "wps_wpr_expired_notification" />
+        </key>
+        <key name= "wps_wpr_other_settings" >
+        <key name= "wps_wpr_thnku_order_msg" />
+        <key name= "wps_wpr_thnku_order_msg_usin_points" />
+        </key>
+         <key name= "wps_wpr_notification_addon_settings" >
+        <key name= "wps_wpr_notification_button_text" />
+        </key>
+	</admin-texts>
+   
+ 
+        <custom-fields>
+        <custom-field action="copy">wps_product_points_enable</custom-field>
+        <custom-field action="copy">wps_product_purchase_through_point_disable</custom-field>
+        <custom-field action="copy">wps_product_purchase_points_only</custom-field>
+            <custom-field action="copy">wps_points_product_value</custom-field>
+        <custom-field action="copy">wps_points_product_purchase_value</custom-field>
+        </custom-fields>
+          <custom-fields>
+            <custom-field action="copy">wps_wpr_variable_points_</custom-field>
+        <custom-field action="copy">wps_wpr_variable_points_purchase_</custom-field>
+        </custom-fields>
+        
+
+
+</wpml-config>

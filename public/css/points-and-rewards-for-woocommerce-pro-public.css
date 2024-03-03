@@ -1,0 +1,137 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+#wps_wpr_pro_cost_to_points{
+	padding: 8px;
+	border: 1px solid #d5d5d5;
+	margin-right: 10px;
+    vertical-align: middle;
+    -webkit-appearance: checkbox;
+    height: auto!important;
+    width: auto!important;
+}
+
+.wps_wpr_purchase_pro_point {
+    display: inline-block;
+    letter-spacing: 1px;
+    margin-bottom: 4px;
+    position: relative;
+    padding: 4px 8px 4px 20px;
+    color: #fff;
+    font-weight: 700;
+    margin-top: 20px;
+    font-family: Montserrat;
+    font-size: 15px;
+}
+
+.wps_wpr_shared_points_code {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.wps_wpr_shared_points_code #wps_copy {
+    margin: 0 30px 0 0;
+}
+
+.wps_wpr_wrapper_button-insta{
+    max-width: 70px;
+}
+
+.wps_wpr_instagram_share {
+    align-items: center;
+    background: linear-gradient( 45deg , #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%);
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: -30px;
+    min-height: 30px;
+    min-width: 70px;
+    text-align: center;
+}
+
+.wps_wpr_instagram_share img {
+    width: 20px;
+}
+
+ .wps_wpr_wrapper_button {
+    margin-left: 75px;
+    display: flex;
+    flex-wrap: wrap;
+} 
+
+
+.wps_wpr_wrapper_button .wps_wpr_common_class {
+    border: 0;
+    max-height: 30px;
+}
+
+.wps_wpr_wrapper_button .fb-share-button {
+    align-items: center;
+    background: #1b76ef none repeat scroll 0 0;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0;
+    text-decoration: none !important;
+}
+
+.wps_wpr_wrapper_button .twitter-share-button {
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    min-height: 30px;
+    padding: 0 0px;
+    text-decoration: none !important;
+}
+
+.wps_wpr_wrapper_button .wps_wpr_mail_button {
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    min-height: 30px;
+    outline: 0;
+    padding: 5px 12px;
+    width: 77px;
+}
+
+.wps_wpr_wrapper_button .wps_wpr_mail_button img{
+    margin-top: 0;
+}
+
+.wps_wpr_whatsapp_share {
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    height: 30px;
+    margin: 0 7px;
+    padding: 0 0px;
+    width: 77px;
+}
+
+.wps_wpr_wrapper_button .wps_wpr_wrapper_button {
+    margin: 0;
+    width: 50%;
+}
+
+.wps-wpr__email-input {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    order: 2;
+    width: 100%;
+}
+
+#wps_wpr_enter_emaill {
+    border-width: 1px;
+    margin-right: 0;
+    outline: 0;
+}
+
+#wps_wpr_shared_points_notificatio {
+    font-size: 16px;
+    margin-bottom: 10px;
+    order: 3;
+}
+
